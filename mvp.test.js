@@ -40,7 +40,7 @@ describe('Sprint 5 Module 3', () => {
       })
     })
   })
-  describe.'buildLearnerCard component', () => {
+  describe('buildLearnerCard component', () => {
     let languages = [
       { id: 37, name: 'JavaScript', creator: 'Brendan Eich', year: 1995 },
       { id: 82, name: 'Python', creator: 'Guido van Rossum', year: 1991 },
@@ -67,7 +67,7 @@ describe('Sprint 5 Module 3', () => {
       })
     })
   })
-  describe.('buildFooter component', () => {
+  describe('buildFooter component', () => {
     let data = {
       companyName: 'Bloom Institute of Technology',
       address: '123 Main Street, City, Country',
